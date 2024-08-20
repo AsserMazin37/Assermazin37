@@ -9,7 +9,7 @@
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
-  -&nbsp; Data scientist with two years of experience in applying machine learning, deep learning, statistical analysis, and data visualization techniques to solve real-world problems. Successfully completed several projects in domains such as financial technology and healthcare, using Python, SQL, and various tools and frameworks such as TensorFlow, PyTorch and Scikit-learn. I have a strong background in mathematics and computer science, with a bachelor's degree in computer science from Ain Shams University. I am passionate about finding insights from data and communicating them effectively to stakeholders and clients. I am always eager to learn new skills and technologies to enhance my data science capabilities.</br>
+  Data scientist with two years of experience in applying machine learning, deep learning, statistical analysis, and data visualization techniques to solve real-world problems. Successfully completed several projects in domains such as financial technology and healthcare, using Python, SQL, and various tools and frameworks such as TensorFlow, PyTorch and Scikit-learn. I have a strong background in mathematics and computer science, with a bachelor's degree in computer science from Ain Shams University. I am passionate about finding insights from data and communicating them effectively to stakeholders and clients. I am always eager to learn new skills and technologies to enhance my data science capabilities.</br>
 
 # How to reach me ?</br>
 <p><a href="mailto:asser.mazin.20@gmail.com">asser.mazin.20@gmail.com</a></p>
