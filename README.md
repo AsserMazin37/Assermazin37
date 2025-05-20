@@ -9,13 +9,20 @@
 
 <p>
   <h3> 👨🏻‍💻 About Me </h3>
-  Data scientist with two years of experience in applying machine learning, deep learning, statistical analysis, and data visualization techniques to solve real-world problems. Successfully completed several projects in domains such as financial technology and healthcare, using Python, SQL, and various tools and frameworks such as TensorFlow, PyTorch and Scikit-learn. I have a strong background in mathematics and computer science, with a bachelor's degree in computer science from Ain Shams University. I am passionate about finding insights from data and communicating them effectively to stakeholders and clients. I am always eager to learn new skills and technologies to enhance my data science capabilities.</br>
+  Data scientist with three years of experience in applying machine learning, deep learning, statistical analysis, and data visualization techniques to solve real-world problems. Successfully completed several projects in domains such as financial technology and healthcare, using Python, SQL, and various tools and frameworks such as TensorFlow, PyTorch and Scikit-learn. I have a strong background in mathematics and computer science, with a bachelor's degree in computer science from Ain Shams University. I am passionate about finding insights from data and communicating them effectively to stakeholders and clients. I am always eager to learn new skills and technologies to enhance my data science capabilities.</br>
 
 # How to reach me?</br>
 <p><a href="mailto:asser.mazin.20@gmail.com">asser.mazin.20@gmail.com</a></p>
 </p>
 
 # My Experiences
+## Data Scientist at Soum:
+* Developed a pricing optimization model leveraging time-to-sell metrics and historical data to balance market competitiveness, resulting in a 25% increase in adoption rates.
+* Implemented a reinforcement learning-based consignment model using genetic algorithms to optimize buy prices for second-hand products while maintaining profit margins.
+* Enhanced competitor price monitoring pipeline with automated scraping and data transformation capabilities.
+* Created an intelligent product mapping system combining fuzzy matching, embedding similarity, and LLM-as-a-judge verification to accurately match competitor products to internal inventory.
+* Developed a dynamic clustering take-rate model to segment products into optimized commission tiers based on sales velocity and margin profiles, replacing the previous fixed-commission per price-bucket approach.
+
 ## Data Scientist at ValU:
 * Optimizing marketing campaigns by segmenting customer base through advanced clustering techniques.
 * Enhancing chatbot performance by integrating Retrieval-Augmented Generation (RAG) techniques, leading to more accurate and relevant responses.
